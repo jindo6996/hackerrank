@@ -15,6 +15,7 @@ object functionsrONot {
         val xy = stdin.readLine.trim.split(" ").map(_.toInt)
 //        if (dd(xy(0)).isNaN) dd. =  xy(1)
       for (i = 0; i<= 100; i++)) println(i))
+      println("huhuhu")
       }
     }
   }
