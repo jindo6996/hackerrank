@@ -14,7 +14,7 @@ object functionsrONot {
       for (iN <- 1 to n) {
         val xy = stdin.readLine.trim.split(" ").map(_.toInt)
 //        if (dd(xy(0)).isNaN) dd. =  xy(1)
-
+      for (i = 0; i<= 100; i++)) println(i))
       }
     }
   }
