@@ -29,9 +29,9 @@ object mark_and_toys {
     val printWriter = new PrintWriter("output.txt")
 
     val nk = stdin.readLine.split(" ")
-
+    println(nk)
     val n = nk(0).trim.toInt
-
+    println(n)
     val k = nk(1).trim.toInt
 
     val prices = stdin.readLine.split(" ").map(_.trim.toInt)
