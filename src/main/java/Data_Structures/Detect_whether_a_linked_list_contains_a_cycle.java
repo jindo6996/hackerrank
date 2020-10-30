@@ -11,6 +11,7 @@ public class Detect_whether_a_linked_list_contains_a_cycle {
 
     static class SinglyLinkedListNode {
         public int data;
+        public int kdl;
         public SinglyLinkedListNode next;
 
         public SinglyLinkedListNode(int nodeData) {
