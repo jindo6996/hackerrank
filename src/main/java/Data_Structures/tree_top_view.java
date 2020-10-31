@@ -16,14 +16,6 @@ class Node {
 }
 
 class tree_top_view {
-
-    /*
-
-    class Node
-        int data;
-        Node left;
-        Node right;
-    */
     static int maxCount = -3000;
     static int minCount = 3000;
     static class NodeAndHigh{
